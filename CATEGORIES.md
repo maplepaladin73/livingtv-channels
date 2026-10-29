@@ -50,11 +50,11 @@ Playlist: categories/travel-scenic.m3u
 
 Autentic Travel, BBC Travel, Fun Roads, DroneTV, Beach TV Key West & Florida Keys, Beach TV Florida & Alabama, Beach TV Myrtle Beach & The Grand Strand, Beach TV Panama City
 
-### Food & Home (8)
+### Food & Home (9)
 Cooking, design, home and garden.  
 Playlist: categories/food-home.m3u
 
-America's Test Kitchen, Gusto TV, The Jamie Oliver Channel, Tastemade, Bon Appétit, Homeful, The Design Network, Pluto TV Food
+America's Test Kitchen, Gusto TV, The Jamie Oliver Channel, Tastemade, Bon Appétit, Homeful, The Design Network, Pluto TV Food, Kaloopy
 
 ### Kids & Family (7)
 Cartoons and shows safe for children.  

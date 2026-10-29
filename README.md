@@ -1,6 +1,8 @@
 # Living TV Channels
 
-A hand-picked, family-friendly list of free, legal live TV channels for **[Living TV](https://maplepaladin73.github.io/livingtv-support/)** on Apple TV.
+A hand-picked, family-friendly list of free, legal live TV channels, set up for **Living TV** on Apple TV. It works in any IPTV player that accepts M3U playlists.
+
+*This is an unofficial community list. It is not part of the Living TV app and isn't built into it.*
 
 This is not a dump of every stream on the internet. Every channel here:
 
