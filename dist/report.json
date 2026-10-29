@@ -1,8 +1,6 @@
 {
-  "generated_at": "2026-10-29T19:12:13+00:00",
-  "channels": 129,
-  "dead": {},
-  "alive": 129,
+  "generated_at": "2026-10-29T19:16:21+00:00",
+  "channels": 128,
   "epg_covered": 83,
   "epg_missing": [
     "3ABN Canada",
@@ -32,7 +30,6 @@
     "Global News",
     "Gordon Ramsay's Hell's Kitchen",
     "Homeful",
-    "Kaloopy",
     "Love Nature",
     "NHK World-Japan",
     "NatureTime",
@@ -61,7 +58,7 @@
     "nature-wildlife": 5,
     "history-documentary": 4,
     "travel-scenic": 8,
-    "food-home": 9,
+    "food-home": 8,
     "kids-family": 7,
     "classic-tv": 14,
     "drama-crime": 8,
