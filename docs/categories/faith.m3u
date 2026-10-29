@@ -1,0 +1,5 @@
+#EXTM3U url-tvg="https://maplepaladin73.github.io/livingtv-channels/guide.xml.gz" x-tvg-url="https://maplepaladin73.github.io/livingtv-channels/guide.xml.gz"
+#EXTINF:-1 tvg-id="EWTN.us@Canada" tvg-name="EWTN Canada" tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw" group-title="Faith",EWTN Canada
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABNCanada.ca@SD" tvg-name="3ABN Canada" tvg-logo="https://i.imgur.com/U99CsEc.png" group-title="Faith",3ABN Canada
+https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
