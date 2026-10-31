@@ -3,7 +3,7 @@
 https://jmp2.uk/plu-638e11951177840007fdd6b2.m3u8
 #EXTINF:-1 tvg-id="PlutoTVComedy.us@CA" tvg-name="Pluto TV Comedy" tvg-logo="https://images.pluto.tv/channels/62e92178946c8000079a3160/colorLogoPNG.png" group-title="Comedy",Pluto TV Comedy
 https://jmp2.uk/plu-62e92178946c8000079a3160.m3u8
-#EXTINF:-1 tvg-id="DryBarComedy.us" tvg-name="Drybar Comedy" tvg-logo="https://i.imgur.com/EldlmTp.png" group-title="Comedy",Drybar Comedy
+#EXTINF:-1 tvg-id="DryBarComedyPlus.us@SD" tvg-name="Drybar Comedy" tvg-logo="https://i.imgur.com/EldlmTp.png" group-title="Comedy",Drybar Comedy
 https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TheGrahamNortonShow.uk@SD" tvg-name="The Graham Norton Show" tvg-logo="https://image.tmdb.org/t/p/w500/xZkWYamzlT6nFu9MI2Rr6NkjedX.png" group-title="Comedy",The Graham Norton Show
 https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8

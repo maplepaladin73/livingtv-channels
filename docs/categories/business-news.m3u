@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://maplepaladin73.github.io/livingtv-channels/guide.xml.gz" x-tvg-url="https://maplepaladin73.github.io/livingtv-channels/guide.xml.gz"
-#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="Business News",Bloomberg TV+
+#EXTINF:-1 tvg-id="BloombergTV.us@Plus" tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="Business News",Bloomberg TV+
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
-#EXTINF:-1 tvg-id="BloombergTelevision.us" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" group-title="Business News",Bloomberg
+#EXTINF:-1 tvg-id="BloombergTV.us@US" tvg-name="Bloomberg" tvg-logo="https://i.imgur.com/VnCcH73.png" group-title="Business News",Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-id="YahooFinance.us" tvg-name="Yahoo Finance" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="Business News",Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
