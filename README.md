@@ -8,7 +8,7 @@ This is not a dump of every stream on the internet. Every channel here:
 
 - comes from the broadcaster itself or an ad-supported free TV service (Pluto TV, Stingray, Tubi, Samsung TV Plus, Rakuten TV and similar);
 - is in English and works in Canada;
-- was checked to be playing when the list was last built;
+- is checked to be playing whenever the list is built with `--probe` (dead streams are dropped);
 - sits in one clear category.
 
 ## Add it to Living TV
@@ -48,7 +48,11 @@ See [SOURCES.md](SOURCES.md). In short: official or free-and-legal only, it has 
 python3 tools/build.py --probe --guide merged-guide.xml
 ```
 
-This checks every stream, drops dead ones, and writes `dist/`: the full playlist, one playlist per category, the filtered guide and `report.json`.
+This checks every stream, drops dead ones, and writes `dist/`: the full playlist, one playlist per category, the filtered guide and `report.json`. Both flags are optional: without `--probe` nothing is checked and every channel is written; without `--guide` no `guide.xml.gz` is written. `--guide` takes a merged XMLTV file (`.xml` or `.xml.gz`) and keeps only the channels whose `tvg_id` is in the list.
+
+Channels are ordered by category (in `channels.json` order), then by each channel's optional `rank`. Raw Pluto TV stitcher URLs in `channels.json` are rewritten to the `https://jmp2.uk/plu-<id>.m3u8` redirector in the output.
+
+GitHub Pages serves the `docs/` folder, not `dist/`. To publish, copy the contents of `dist/` into `docs/` (which also holds `index.html` and `.nojekyll`).
 
 ## Disclaimer
 
